@@ -91,6 +91,9 @@ h1,h2,h3,h4{letter-spacing: -1px;}
 /* ! Componenti------------------------------------------------------------------------------------------------------*/
 
 
+/* ! Capitoli */
+.capitolo{background: #FAFAFA; border: 1px solid #333; border-radius: 20px; padding: 4%;}
+
 
 /* ! Cover */
 .cover{padding: 30px; height: 100dvh; display: flex; text-align: center; flex-flow: column; align-items: center; justify-content: center; background: #ededed;}
